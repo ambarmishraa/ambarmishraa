@@ -1,6 +1,6 @@
+![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1662569563~exp=1662570163~hmac=834539b72f5808054708dbe8a5a70e7b3da97ff58444a963edb6adab9eccf48d)
 <h1 align="center">Hi 👋, I'm Ambar Mishra</h1>
 <h3 align="center">Bridging Ideas to Implementation: Empowering Innovation Through Software Development</h3>
-<img align="center" alt="coding" width="400 " src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambarmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="ambarmishraa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambarmishraa" alt="ambarmishraa" /></a> </p>
