@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1662569563~exp=1662570163~hmac=834539b72f5808054708dbe8a5a70e7b3da97ff58444a963edb6adab9eccf48d)
 <h1 align="center">Hi 👋, I'm Ambar Mishra</h1>
 <h3 align="center">Bridging Ideas to Implementation: Empowering Innovation Through Software Development</h3>
-<img align="right" alt="Coding' width="200" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" alt="Coding' width="100" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 
 - 🌱 I’m currently learning **Angular**
