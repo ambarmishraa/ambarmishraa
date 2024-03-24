@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1662569563~exp=1662570163~hmac=834539b72f5808054708dbe8a5a70e7b3da97ff58444a963edb6adab9eccf48d)
 <h1 align="center">Hi 👋, I'm Ambar Mishra</h1>
 <h3 align="center">Bridging Ideas to Implementation: Empowering Innovation Through Software Development</h3>
-<img align="right" alt="Coding' width="400" src="https://imgs.search.brave.com/NKZJdeX1UsKNo7KD8uu4HgCwoaHJg5GrPlm8zLPD4mM/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/MGZ1UGwzeDlLdk1C/MlpZVzBrN293SGFF/SyZwaWQ9QXBp(https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
+<img align="right" alt="Coding' width="400" src="https://imgs.search.brave.com/NKZJdeX1UsKNo7KD8uu4HgCwoaHJg5GrPlm8zLPD4mM/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/MGZ1UGwzeDlLdk1C/MlpZVzBrN293SGFF/SyZwaWQ9QXBp">
 
 
 - 🌱 I’m currently learning **Angular**
@@ -12,8 +12,13 @@
 
 - 📫 How to reach me **ambarmishra740@gmail.com**
 
-- ⚡ **Your limitation—it's only your imagination.**
+- ⚡ Fun fact **Your limitation—it's only your imagination.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ambar-mishra-6a5307224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ambar-mishra-6a5307224/" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/ambar_mishra__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ambar_mishra__/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@toxickratos7401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@toxickratos7401" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
@@ -37,10 +42,5 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  </p>
-    <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ambar-mishra-6a5307224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ambar-mishra-6a5307224/" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/ambar_mishra__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ambar_mishra__/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@toxickratos7401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@toxickratos7401" height="30" width="40" /></a>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambarmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="ambarmishraa" /> </p>
 
