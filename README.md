@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ambarmishra740@gmail.com**
 
-- ⚡ Fun fact **Your limitation—it's only your imagination.**
+- ⚡**Your limitation—it's only your imagination.**
 
 
 <h3 align="left">Languages and Tools:</h3>
