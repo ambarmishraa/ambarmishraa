@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ambar Mishra</h1>
 <h3 align="center">Bridging Ideas to Implementation: Empowering Innovation Through Software Development</h3>
 <img align="right" alt="Coding' width="400" src="https://imgs.search.brave.com/NKZJdeX1UsKNo7KD8uu4HgCwoaHJg5GrPlm8zLPD4mM/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/MGZ1UGwzeDlLdk1C/MlpZVzBrN293SGFF/SyZwaWQ9QXBp">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambarmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="ambarmishraa" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambarmishraa" alt="ambarmishraa" /></a> </p>
 
 - 🌱 I’m currently learning **Angular**
