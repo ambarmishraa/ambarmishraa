@@ -4,7 +4,7 @@
 <img align="right" alt="Coding' width="200" height="200" src="https://camo.githubusercontent.com/e83b3dee4b8b976c1c28fb24527a3dfffabc27c944dedd529517256849ea78e9/68747470733a2f2f7777772e6665676e6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f7765622d646576656c6f706d656e742d636f6d70616e792d696e2d6b6f6368692e676966">
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://ambarmishra.vercel.app/](https://ambarmishra.vercel.app/)
 
