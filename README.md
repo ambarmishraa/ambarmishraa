@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ambarmishra.vercel.app/](https://ambarmishra.vercel.app/)
 
-- 💬 Ask me about **Angular, Flutter, Ionic, Firebase**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **ambarmishra740@gmail.com**
 
