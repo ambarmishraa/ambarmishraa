@@ -43,3 +43,7 @@
   </a>
 </p>
 
+<div align="center">
+
+![snake gif](https://github.com/ambarmishraa/ambarmishraa/blob/output/github-snake-dark.svg)
+</div>
