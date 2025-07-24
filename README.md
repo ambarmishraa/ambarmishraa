@@ -24,8 +24,9 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@toxickratos7401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@toxickratos7401" height="30" width="40" /></a>
 </p>
 
-## GSSOC(24) Badges 🪶
+## GSSOC Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img width="500" height="500" alt="Contributor's badge" src="https://github.com/user-attachments/assets/e558fda6-fb65-46c0-b809-b9900b9c30ea" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 <!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
