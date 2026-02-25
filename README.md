@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1662569563~exp=1662570163~hmac=834539b72f5808054708dbe8a5a70e7b3da97ff58444a963edb6adab9eccf48d) -->
 
-![MasterHead](<img width="1380" height="523" alt="Untitled design" src="https://github.com/user-attachments/assets/a9280bdc-5385-46e7-80cb-055e4987b3f0" />)
+![MasterHead](https://github.com/user-attachments/assets/a9280bdc-5385-46e7-80cb-055e4987b3f0)
 <h1 align="center">Hi 👋, I'm Ambar Mishra</h1>
 <h3 align="center">🎓 Student at Technische Universität Darmstadt</h3>
 <h4 align="center"> 💻 Passionate about Software Development | Open Source | Learning & Building </h4>
