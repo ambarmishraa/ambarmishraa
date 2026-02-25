@@ -1,6 +1,7 @@
 <!-- ![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1662569563~exp=1662570163~hmac=834539b72f5808054708dbe8a5a70e7b3da97ff58444a963edb6adab9eccf48d) -->
 
-![MasterHead](https://github.com/user-attachments/assets/645095d5-dfa8-47a2-847f-39e54626e20a)
+![MasterHead](https://github.com/user-attachments/assets/a5c65e12-3b7e-4213-bd72-913ea0088333)
+
 
 
 <h1 align="center">Hi 👋, I'm Ambar Mishra</h1>
