@@ -177,9 +177,11 @@ Real-time audio feedback for visually impaired individuals using ultrasonic sens
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambarmishraa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambarmishraa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambarmishraa&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambarmishraa&theme=github_dark" alt="Top Languages by Repo" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ambarmishraa&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
