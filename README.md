@@ -1,5 +1,5 @@
 
-<!-- <img width="56" height="56" alt="inbox_1488634_09e1f99bdf3222934ad7769409ec3f6d_Badge-26" src="https://github.com/user-attachments/assets/19997412-3d5c-4bce-abc7-f35903838550" />![MasterHead](https://github.com/user-attachments/assets/a5c65e12-3b7e-4213-bd72-913ea0088333) -->
+ ![MasterHead](https://github.com/user-attachments/assets/a5c65e12-3b7e-4213-bd72-913ea0088333) 
 
 <h1 align="center">Hi 👋, I'm Ambar Mishra</h1>
 <h3 align="center">M.Sc. Computer Science · TU Darmstadt · Data Science & Engineering</h3>
