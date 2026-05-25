@@ -221,7 +221,12 @@ Real-time audio feedback for visually impaired individuals using ultrasonic sens
   </a>
 </p>
 
+## KAGGLE Badges 🏆
 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img width="56" height="56" alt="Kaggle Badge" src="https://github.com/user-attachments/assets/19997412-3d5c-4bce-abc7-f35903838550" />
+  <img width="56" height="56" alt="Kaggle Badge" src="https://github.com/user-attachments/assets/f48ff61b-ce0d-4a7b-ab09-2a7730262e4e" />
+</div>
 
 
 
